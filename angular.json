@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "csstricksclone"
+    }
+  },
+  "defaultProject": "csstricksclone",
+  "cli": {
+    "analytics": "30cf3b72-fdf6-4b64-a60c-d37dba59795f"
+  }
 }
